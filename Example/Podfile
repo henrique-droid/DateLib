@@ -1,0 +1,6 @@
+use_frameworks!
+target 'DateLib_Tests' do
+  pod 'DateLib', :path => '../'
+  
+  
+end

@@ -1,0 +1,16 @@
+PODS:
+  - DateLib (1.0.0)
+
+DEPENDENCIES:
+  - DateLib (from `../`)
+
+EXTERNAL SOURCES:
+  DateLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DateLib: 310e99ad750b8bbf15ed634a383904d8ce05b831
+
+PODFILE CHECKSUM: 42a2995d69f811bad720f35c549a5400be7993cd
+
+COCOAPODS: 1.9.1

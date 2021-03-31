@@ -28,7 +28,7 @@ This is a library to make it easy to get the current day, month and year on Swif
   s.source           = { :git => 'https://github.com/henrique-droid/DateLib.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '9.0'
+  s.ios.deployment_target = '12.0'
 
   s.source_files = 'DateLib/Classes/**/*'
   

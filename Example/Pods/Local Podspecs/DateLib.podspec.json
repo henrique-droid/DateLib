@@ -1,0 +1,24 @@
+{
+  "name": "DateLib",
+  "version": "1.0.0",
+  "summary": "A library to get day, month and year on Swift",
+  "description": "This is a library to make it easy to get the current day, month and year on Swift.",
+  "homepage": "https://github.com/henrique-droid/DateLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "henrique-droid": "henriqbarbosa@icloud.com"
+  },
+  "source": {
+    "git": "https://github.com/henrique-droid/DateLib.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "DateLib/Classes/**/*",
+  "swift_versions": "5.0",
+  "swift_version": "5.0"
+}
